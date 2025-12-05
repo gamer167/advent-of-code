@@ -1,7 +1,7 @@
 """
 Author: Jose A. Romero
 Edited by: Gamer 1.
-Puzzle: Advent of Code (year=2025 ; day=4 ; task=1)
+Puzzle: Advent of Code (year=2025 ; day=4 ; task=2)
 """
 
 import sys
