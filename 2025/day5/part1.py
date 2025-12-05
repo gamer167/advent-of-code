@@ -1,3 +1,9 @@
+"""
+Author: Jose A. Romero
+Eddited by: Gamer 1
+Puzzle: Advent of Code (year=2025 ; day=5 ; task=1)
+"""
+
 import sys
 
 def reader():
