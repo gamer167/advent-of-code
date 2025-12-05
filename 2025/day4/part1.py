@@ -7,7 +7,7 @@ Puzzle: Advent of Code (year=2025 ; day=4 ; task=1)
 import sys
 
 def reader():
-    return open(f"imput.txt", 'r').read().splitlines()
+    return open(f"input.txt", 'r').read().splitlines()
 
 def main() -> None:
     grid = reader()
