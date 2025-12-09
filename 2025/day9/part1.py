@@ -2,7 +2,7 @@
 Author: Darren
 Date: 01/12/2025
 
-Solving https://adventofcode.com/2025/day/7
+Solving https://adventofcode.com/2025/day/9
 
 Edited by: Gamer 1
 
